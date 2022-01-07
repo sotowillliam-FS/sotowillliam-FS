@@ -1,6 +1,6 @@
 ### Hi there My name is William👋
 
-This is my github Full Sail University. 
+This is my github for Full Sail University. 
 
 - 🔭 I’m currently working on getting my degree...
 - 🌱 I’m currently learning using github and git...
